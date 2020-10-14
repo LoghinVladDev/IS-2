@@ -3,7 +3,8 @@ project(IS_tema1)
 
 set(CMAKE_CXX_STANDARD 20)
 
-include_directories(src/*)
+add_subdirectory(dependencies/c-thread)
+include_directories(src/**)
 
 add_executable(
         IS_tema1
