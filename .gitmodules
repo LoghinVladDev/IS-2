@@ -1,3 +1,6 @@
 [submodule "dependencies/c-thread"]
 	path = dependencies/c-thread
 	url = https://www.github.com/G2Gmycatisonfire/c-thread
+[submodule "dependencies/c-comm-stack"]
+	path = dependencies/c-comm-stack
+	url = https://github.com/G2Gmycatisonfire/c-comm-stack.git
